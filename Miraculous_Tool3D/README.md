@@ -1,12 +1,12 @@
 # Miraculous Studio Character Tool for Maya
 **Interface tout-en-un pour le pipeline 3D du studio Miraculous**
-*Développé par Alexis Rousseau – Technical Artist IT*
-*Version : 6 – Dernière mise à jour : 23/05/2025*
+- *Développé par Alexis Rousseau – Technical Artist IT*
+- *Version : 6 – Dernière mise à jour : 23/05/2025*
 
 ---
 
 ## **Présentation**
-Ce script Python pour **Autodesk Maya** est une interface centralisée conçue pour **accélérer et standardiser** le workflow de création de personnages 3D pour la série *Miraculous*. Il regroupe des outils de **renommage, gestion des shaders, UVs, export FBX et nettoyage de scène**, spécialement adaptés aux besoins du studio.
+- Ce script Python pour **Autodesk Maya** est une interface centralisée conçue pour **accélérer et standardiser** le workflow de création de personnages 3D pour la série *Miraculous*. Il regroupe des outils de **renommage, gestion des shaders, UVs, export FBX et nettoyage de scène**, spécialement adaptés aux besoins du studio.
 
 **Fonctionnalités clés** :
 - Création automatique de **shaders Lambert** (vêtements, peau, accessoires, cheveux, cils, dents, verre).
@@ -101,7 +101,7 @@ Modifier les chemins dans la section SET Path si nécessaire :
 
 
 ---
-## 🎯 Cas d’usage
+## Cas d’usage
 
 **1. Préparation d’un personnage**
 - Utiliser All Lambert + Lashes (Boy/Girl) pour créer tous les shaders.
@@ -116,15 +116,15 @@ Modifier les chemins dans la section SET Path si nécessaire :
 
 
 ---
-## ⚠ Limitations & Notes
+## Limitations & Notes
 
 **- Groupe GEO obligatoire :** Le script suppose que tous les meshes sont sous un groupe nommé GEO.
 **- Compatibilité :** Développé pour le pipeline **Miraculous**. Certaines fonctions (ex: transfert UV) dépendent de la structure spécifique des assets du studio.
 
-**📸 Captures d’écran**
+## Captures d’écran
 **- Interface :**
-![interface](images/Capture.PNG) ![interface](images/Capture_2.PNG)
 
+![interface](images/Capture.PNG) ![interface](images/Capture_2.PNG)
 
 
 **- Exemple de shader shader automatique :**
@@ -134,7 +134,7 @@ Modifier les chemins dans la section SET Path si nécessaire :
 ---
 # 📜 Licence & Crédits
 
-**Développeur** : Alexis Rousseau – Technical Artist IT @ Studio Miraculous.
-**Licence** : Interne au studio 
-**Remerciements** : À l’équipe 3D du studio pour les retours et tests.
+**- Développeur** : Alexis Rousseau – Technical Artist IT @ Studio Miraculous.
+**- Licence** : Interne au studio 
+**- Remerciements** : À l’équipe 3D du studio pour les retours et tests.
 
