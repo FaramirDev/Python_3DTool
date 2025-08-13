@@ -134,7 +134,12 @@ Modifier les chemins dans la section SET Path si nécessaire :
 ---
 # 📜 Licence & Crédits
 
-**- Développeur** : Alexis Rousseau – Technical Artist IT @ Studio Miraculous.
-**- Licence** : Interne au studio 
-**- Remerciements** : À l’équipe 3D du studio pour les retours et tests.
+**Développeur** 
+- Alexis Rousseau – Technical Artist IT @ Studio Miraculous.
+
+**Licence** 
+- Interne au studio 
+
+**Remerciements** 
+- À l’équipe 3D du studio pour les retours et tests.
 
